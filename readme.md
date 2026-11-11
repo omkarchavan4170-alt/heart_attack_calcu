@@ -9,7 +9,7 @@ A web application built with **Streamlit** that predicts the likelihood of heart
 * Fast and lightweight KNN model
 * Instant prediction results
 * Easy to deploy on Streamlit Community Cloud
-
+* easy to dvlc. using chatgpt 
 ---
 
 ## 📂 Project Structure
